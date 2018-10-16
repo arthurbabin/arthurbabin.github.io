@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="2560px" height="954px" viewBox="0 0 2560 954" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>Path</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="49.4002283%" cy="100%" fx="49.4002283%" fy="100%" r="92.2368678%" gradientTransform="translate(0.494002,1.000000),scale(0.372656,1.000000),rotate(89.000321),scale(1.000000,1.038412),translate(-0.494002,-1.000000)" id="radialGradient-1">
+            <stop stop-color="#505E80" offset="0%"></stop>
+            <stop stop-color="#191F34" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD-Copy" fill="url(#radialGradient-1)">
+            <rect id="Path" x="0" y="0" width="2560" height="954"></rect>
+        </g>
+    </g>
+</svg>
